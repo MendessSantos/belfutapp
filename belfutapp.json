@@ -9,7 +9,7 @@
 
   "matches": [
     {
-      "title": "FLAMENGO E VASCO",
+      "title": "FLAMENGOs E VASCO",
 
       "home": {
         "name": "Flamengo",
@@ -38,7 +38,7 @@
         },
         {
           "name": "PLAYER 3",
-          "m3u8": "https://servidor.com/canal3/index.m3u8",
+          "m3u8": "https://live-01.edge-claro-bsb-df.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1ic2ItZGYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg5NjA2NDcwLCJpYXQiOjE3ODk1ODQ4NzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYWJkNDRmMDYtMjM1Ny00YTBlLWExYjEtNTU2N2JhODZiZDM2IiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.SecciJp8Nogp0neKuSVmdzgnS8C6HvYj9haEOaLp31kLxdqfIy3ktYe9iPeLLtOnsc2ooVy5gGmZSvIqxARjRNB_cptsgIHY98SwWWqsrJsqyHKlqzzgNB1UGk1A_V-DAgWmc_vLMBq9Nlpbgp-2gDFVPU0jjsIzrmAzF_TJ8Pjp6KFfKyLle8eFGAlENhrkzQv0Z6DwJ6gjYbPuzZSgZRt74IzwjshHToixF7KeO3txLS6TerOQNNAMGIBE6g_NzAa7T9LYAvjawlo6DMofZafGmpMZQzL0WjQxEIG1cAW0sVMnzzHQ897vLwq_pqfIekwbPD5L8Y_VjHWUs5NL2g/live/f(i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8",
           "referer": "",
           "origin": "",
           "user_agent": "Mozilla/5.0"
