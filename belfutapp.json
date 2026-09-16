@@ -1,15 +1,15 @@
 {
   "app": {
     "name": "BEL FUT ONLINE",
-    "logo": "https://imgs.casasbahia.com.br/images/CasasBahia/brand/logo.svg",
+    "logo": "https://SEU-SITE.com/logo.png",
     "whatsapp": "https://wa.me/5561999999999",
-    "instagram": "https://www.instagram.com/seuinstagram",
+    "instagram": "https://instagram.com/SEUUSUARIO",
     "updated_at": "16/09/2026"
   },
 
   "matches": [
     {
-      "title": "FLAMENGOs E VASCO",
+      "title": "FLAMENGO X VASCO",
 
       "home": {
         "name": "Flamengo",
@@ -24,62 +24,32 @@
       "players": [
         {
           "name": "PLAYER 1",
+          "type": "hls",
+          "m3u8": "https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8",
+          "referer": "",
+          "origin": "",
+          "user_agent": "Mozilla/5.0"
+        },
+
+        {
+          "name": "PLAYER 2",
+          "type": "hls",
           "m3u8": "https://f8umt2oop68t.sbs/live/secure/T8J9dPC-G-L-Mo-kIVDbD3LY_YELa61YYnLFuy0GMnc/1789605407/b6f478c4259719f1/premiereclubes/index.m3u8",
           "referer": "https://reidoscanais.st/",
-          "origin": "https://reidoscanais.st",
+          "origin": "https://reidoscanais.st/canal/premiereclubes",
           "user_agent": "Mozilla/5.0"
         },
-        {
-          "name": "PLAYER 2",
-          "m3u8": "https://f8umt2oop68t.sbs/live/secure/AQp46x73WHhZeS-P5ssBnrZpL9Wk8NcW_dmT7Mo-piY/1789605681/cfd50c3757bea1a1/combate/index.m3u8",
-          "referer": "https://reidoscanais.st/",
-          "origin": "https://reidoscanais.st",
-          "user_agent": "Mozilla/5.0"
-        },
+
         {
           "name": "PLAYER 3",
-          "m3u8": "https://live-01.edge-claro-bsb-df.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1jbGFyby1ic2ItZGYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg5NjA2NDcwLCJpYXQiOjE3ODk1ODQ4NzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYWJkNDRmMDYtMjM1Ny00YTBlLWExYjEtNTU2N2JhODZiZDM2IiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.SecciJp8Nogp0neKuSVmdzgnS8C6HvYj9haEOaLp31kLxdqfIy3ktYe9iPeLLtOnsc2ooVy5gGmZSvIqxARjRNB_cptsgIHY98SwWWqsrJsqyHKlqzzgNB1UGk1A_V-DAgWmc_vLMBq9Nlpbgp-2gDFVPU0jjsIzrmAzF_TJ8Pjp6KFfKyLle8eFGAlENhrkzQv0Z6DwJ6gjYbPuzZSgZRt74IzwjshHToixF7KeO3txLS6TerOQNNAMGIBE6g_NzAa7T9LYAvjawlo6DMofZafGmpMZQzL0WjQxEIG1cAW0sVMnzzHQ897vLwq_pqfIekwbPD5L8Y_VjHWUs5NL2g/live/f(i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8",
-          "referer": "",
-          "origin": "",
-          "user_agent": "Mozilla/5.0"
-        }
-      ]
-    },
-
-    {
-      "title": "SÃO PAULO E SANTOS",
-
-      "home": {
-        "name": "São Paulo",
-        "logo": "https://seusite.com/logos/saopaulo.png"
-      },
-
-      "away": {
-        "name": "Santos",
-        "logo": "https://seusite.com/logos/santos.png"
-      },
-
-      "players": [
-        {
-          "name": "PLAYER 1",
-          "m3u8": "https://servidor.com/jogo2/player1.m3u8",
-          "referer": "https://site-origem.com/",
-          "origin": "https://site-origem.com",
-          "user_agent": "Mozilla/5.0"
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/wAce0KbmUNo"
         },
+
         {
-          "name": "PLAYER 2",
-          "m3u8": "https://servidor.com/jogo2/player2.m3u8",
-          "referer": "https://site-origem.com/",
-          "origin": "https://site-origem.com",
-          "user_agent": "Mozilla/5.0"
-        },
-        {
-          "name": "PLAYER 3",
-          "m3u8": "https://servidor.com/jogo2/player3.m3u8",
-          "referer": "",
-          "origin": "",
-          "user_agent": "Mozilla/5.0"
+          "name": "PLAYER 4",
+          "type": "embed",
+          "url": "https://redecanaistv.af/player3/ch.php?canal=animalplanet"
         }
       ]
     }
