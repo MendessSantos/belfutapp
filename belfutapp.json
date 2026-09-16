@@ -9,7 +9,7 @@
 
   "matches": [
     {
-      "title": "FLAMENGO X VASCO",
+      "title": "FLAMENGOs X VASCO",
 
       "home": {
         "name": "Flamengo",
@@ -34,22 +34,22 @@
         {
           "name": "PLAYER 2",
           "type": "hls",
-          "m3u8": "https://f8umt2oop68t.sbs/live/secure/T8J9dPC-G-L-Mo-kIVDbD3LY_YELa61YYnLFuy0GMnc/1789605407/b6f478c4259719f1/premiereclubes/index.m3u8",
-          "referer": "https://reidoscanais.st/",
-          "origin": "https://reidoscanais.st/canal/premiereclubes",
+          "m3u8": "https://ywppjexvlyulasvmgzjdftfjikth1209oq80soveui6lkbi2iza2zf.cdn13embed.xyz/globodf/index.m3u8",
+          "referer": "https://1009.cdnembedcanais.xyz/",
+          "origin": "https://1009.cdnembedcanais.xyz",
           "user_agent": "Mozilla/5.0"
         },
 
         {
           "name": "PLAYER 3",
           "type": "youtube",
-          "url": "https://www.youtube.com/embed/wAce0KbmUNo"
+          "url": "https://www.youtube.com/embed/lswkk1lmpK8"
         },
 
         {
           "name": "PLAYER 4",
           "type": "embed",
-          "url": "https://redecanaistv.af/player3/ch.php?canal=animalplanet"
+          "url": "https://embedcanaisdetv.xyz/e/index.php?canal=globodf"
         }
       ]
     }
