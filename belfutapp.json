@@ -1,0 +1,87 @@
+{
+  "app": {
+    "name": "BEL FUT ONLINE",
+    "logo": "https://imgs.casasbahia.com.br/images/CasasBahia/brand/logo.svg",
+    "whatsapp": "https://wa.me/5561999999999",
+    "instagram": "https://www.instagram.com/seuinstagram",
+    "updated_at": "16/09/2026"
+  },
+
+  "matches": [
+    {
+      "title": "FLAMENGO E VASCO",
+
+      "home": {
+        "name": "Flamengo",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/819.png&scale=crop&cquality=40&location=origin&w=40&h=40"
+      },
+
+      "away": {
+        "name": "Vasco",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&w=80&h=80&cquality=40&scale=crop"
+      },
+
+      "players": [
+        {
+          "name": "PLAYER 1",
+          "m3u8": "https://f8umt2oop68t.sbs/live/secure/T8J9dPC-G-L-Mo-kIVDbD3LY_YELa61YYnLFuy0GMnc/1789605407/b6f478c4259719f1/premiereclubes/index.m3u8",
+          "referer": "https://reidoscanais.st/",
+          "origin": "https://reidoscanais.st",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "name": "PLAYER 2",
+          "m3u8": "https://f8umt2oop68t.sbs/live/secure/AQp46x73WHhZeS-P5ssBnrZpL9Wk8NcW_dmT7Mo-piY/1789605681/cfd50c3757bea1a1/combate/index.m3u8",
+          "referer": "https://reidoscanais.st/",
+          "origin": "https://reidoscanais.st",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "name": "PLAYER 3",
+          "m3u8": "https://servidor.com/canal3/index.m3u8",
+          "referer": "",
+          "origin": "",
+          "user_agent": "Mozilla/5.0"
+        }
+      ]
+    },
+
+    {
+      "title": "SÃO PAULO E SANTOS",
+
+      "home": {
+        "name": "São Paulo",
+        "logo": "https://seusite.com/logos/saopaulo.png"
+      },
+
+      "away": {
+        "name": "Santos",
+        "logo": "https://seusite.com/logos/santos.png"
+      },
+
+      "players": [
+        {
+          "name": "PLAYER 1",
+          "m3u8": "https://servidor.com/jogo2/player1.m3u8",
+          "referer": "https://site-origem.com/",
+          "origin": "https://site-origem.com",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "name": "PLAYER 2",
+          "m3u8": "https://servidor.com/jogo2/player2.m3u8",
+          "referer": "https://site-origem.com/",
+          "origin": "https://site-origem.com",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "name": "PLAYER 3",
+          "m3u8": "https://servidor.com/jogo2/player3.m3u8",
+          "referer": "",
+          "origin": "",
+          "user_agent": "Mozilla/5.0"
+        }
+      ]
+    }
+  ]
+}
