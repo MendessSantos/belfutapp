@@ -1,1 +1,21 @@
 
+{
+  "app": {
+    "name": "BEL FUT ONLINE",
+    "section": "Canais Abertos",
+    "updated_at": "17/09/2026"
+  },
+
+  "channels": [
+    {
+      "id": "canal-01",
+      "name": "NOME DO CANAL",
+      "logo": "https://seusite.com/logo.png",
+      "type": "hls",
+      "m3u8": "https://seuservidor.com/canal.m3u8",
+      "referer": "",
+      "origin": "",
+      "user_agent": "Mozilla/5.0"
+    }
+  ]
+}
