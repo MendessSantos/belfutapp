@@ -9,12 +9,12 @@
   "channels": [
     {
       "id": "canal-01",
-      "name": "ESPN TT",
+      "name": "ESPN T2",
       "logo": "https://cdn.reidoscanais.st/imagens/espn.png",
       "type": "hls",
-      "m3u8": "https://f8umt2oop68t.sbs/live/secure/APaANCEuWYHBty3mIi3Cdc2LdfVoY7zRHcPUyb4-Utg/1789686237/c8228adf1b09062c/espn/index.m3u8",
-      "referer": "https://rdcanais.net/",
-      "origin": "https://rdcanais.net",
+      "m3u8": "https://ywppjexvlyulasvmgzjdftfjikth1209oq80soveui6lkbi2iza2zf.cdn13embed.xyz/globodf/index.m3u8",
+      "referer": "https://1009.cdnembedcanais.xyz/",
+      "origin": "https://1009.cdnembedcanais.xyz",
       "user_agent": "Mozilla/5.0"
     }
   ]
