@@ -9,12 +9,12 @@
   "channels": [
     {
       "id": "canal-01",
-      "name": "ESPN TESTE",
-      "logo": "https://seusite.com/logo.png",
+      "name": "ESPN TT",
+      "logo": "https://cdn.reidoscanais.st/imagens/espn.png",
       "type": "hls",
-      "m3u8": "https://za260pb3a281.ssl-images-cdn.site/live/secure/rAM67vphUbf5uIK4LtiaR3-rOluXC5nZDH7lOKLbBsc/1789685849/833314c2daa8e4ee/espn/index.m3u8",
-      "referer": "https://reidoscanais.st/",
-      "origin": "https://reidoscanais.st",
+      "m3u8": "https://f8umt2oop68t.sbs/live/secure/APaANCEuWYHBty3mIi3Cdc2LdfVoY7zRHcPUyb4-Utg/1789686237/c8228adf1b09062c/espn/index.m3u8",
+      "referer": "https://rdcanais.net/",
+      "origin": "https://rdcanais.net",
       "user_agent": "Mozilla/5.0"
     }
   ]
