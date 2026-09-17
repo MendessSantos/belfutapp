@@ -9,12 +9,12 @@
   "channels": [
     {
       "id": "canal-01",
-      "name": "NOME DO CANAL",
+      "name": "ESPN TESTE",
       "logo": "https://seusite.com/logo.png",
       "type": "hls",
-      "m3u8": "https://seuservidor.com/canal.m3u8",
-      "referer": "",
-      "origin": "",
+      "m3u8": "https://za260pb3a281.ssl-images-cdn.site/live/secure/rAM67vphUbf5uIK4LtiaR3-rOluXC5nZDH7lOKLbBsc/1789685849/833314c2daa8e4ee/espn/index.m3u8",
+      "referer": "https://reidoscanais.st/",
+      "origin": "https://reidoscanais.st",
       "user_agent": "Mozilla/5.0"
     }
   ]
